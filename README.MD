@@ -1,4 +1,4 @@
-# Welcome to my Home Repository!
+Welcome to my Home Repository!
 ---
 ***Information:***
 <br>
